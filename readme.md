@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/srj101">
-    <img src="assets/Logo.png" alt="Logo" width="192" height="65">
+    <img src="assets/Logo2.png" alt="Logo" width="192" height="65">
   </a>
   <h3 align="center">COVID -19 Awareness Landing Page</h3>
 </p>
