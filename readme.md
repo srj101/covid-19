@@ -30,13 +30,13 @@
 ## 🔥 Screenshots
 
 <p align="center">
-  <img src="images/s1.png" height=600 />
+  <img src="assets/s1.png" height=600 />
 </p>
 <p align="center">
-  <img src="images/s2.png" height=450 />
+  <img src="assets/s2.png" height=450 />
 </p>
 <p align="center">
-  <img src="images/s3.png" height=450 />
+  <img src="assets/s3.png" height=450 />
 </p>
 
 ## 🌟 Show your support
